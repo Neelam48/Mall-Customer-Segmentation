@@ -1,7 +1,7 @@
-# Mall-Customer-Segmentation
+# House Grade Prediction
 
 Business Objective
-- To create Customer cluster to identify the different types of customers
+- Build a predictive model to determine the Grade of house (The grades are A,B,C,D, and E)
 
 Technical Goals
 - Understand the data very well. Do all transformations / data engineering / etc. wherever applicable
